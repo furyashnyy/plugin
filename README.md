@@ -1,4 +1,4 @@
-# CassieAdvancedSettings
+# CassieSettings
 ## Config
 | Parameter | Type | Description |
 | -------- | --- | -------- |
